@@ -1,0 +1,19 @@
+baseURL = "https://cd.shoogle.net/congo-democratic-republic"
+languageCode = "fr"
+title = "Congo"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "congo-democratic-republic"
+
+[taxonomies]
+  shop = "shops"
