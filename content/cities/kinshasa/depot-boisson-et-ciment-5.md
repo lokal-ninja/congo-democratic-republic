@@ -1,5 +1,0 @@
----
-title: "Dépôt Boisson et Ciment"
-url: /kinshasa/depot-boisson-et-ciment-5/
-shop: magasin de variétés
----
