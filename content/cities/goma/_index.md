@@ -1,6 +1,6 @@
 ---
 title: Goma
 url: /goma/
-latitude: -6.386627000000001
-longitude: 19.2133012
+latitude: -1.674
+longitude: 29.204
 ---

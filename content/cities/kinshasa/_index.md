@@ -1,6 +1,6 @@
 ---
 title: Kinshasa
 url: /kinshasa/
-latitude: -4.3217055
-longitude: 15.312597400000001
+latitude: -4.38
+longitude: 15.259
 ---

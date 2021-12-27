@@ -1,6 +1,6 @@
 ---
 title: Bandalungwa
 url: /bandalungwa/
-latitude: 
-longitude: 
+latitude: -4.353
+longitude: 15.288
 ---

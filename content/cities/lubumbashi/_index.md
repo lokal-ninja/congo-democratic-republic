@@ -1,6 +1,6 @@
 ---
 title: Lubumbashi
 url: /lubumbashi/
-latitude: -11.6642316
-longitude: 27.4826264
+latitude: -11.644
+longitude: 27.481
 ---
