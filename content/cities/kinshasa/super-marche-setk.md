@@ -1,5 +1,5 @@
 ---
 title: "Super Marché S&K"
-url: /kinshasa/super-marche-sandk/
+url: /kinshasa/super-marche-setk/
 shop: supermarché
 ---
