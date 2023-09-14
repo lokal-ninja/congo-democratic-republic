@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
-url: /kinshasa/boulangerie/
+url: /kinshasa/boulangerie-kivunda/
 shop: boulangerie
 ---

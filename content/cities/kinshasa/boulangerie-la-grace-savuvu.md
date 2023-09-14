@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie la Grâce"
-url: /kinshasa/boulangerie-la-grace/
+url: /kinshasa/boulangerie-la-grace-savuvu/
 shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anonyme"
-url: /kinshasa/anonyme/
+url: /kinshasa/anonyme-mwana-wuta/
 shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bénédiction"
-url: /kinshasa/benediction/
+url: /kinshasa/benediction-abattoir/
 shop: tailleur
 ---

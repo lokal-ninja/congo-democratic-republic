@@ -1,5 +1,5 @@
 ---
 title: "Dépôt Ciment"
-url: /kinshasa/depot-ciment/
+url: /kinshasa/depot-ciment-kivunda/
 shop: shop
 ---
