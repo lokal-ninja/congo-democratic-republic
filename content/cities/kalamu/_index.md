@@ -1,6 +1,6 @@
 ---
 title: Kalamu
 url: /kalamu/
-latitude: -4.369
-longitude: 15.319
+latitude: -4.356
+longitude: 15.322
 ---
