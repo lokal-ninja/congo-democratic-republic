@@ -1,6 +1,6 @@
 ---
 title: Matadi
 url: /matadi/
-latitude: -5.826
-longitude: 13.466
+latitude: -5.838
+longitude: 13.457
 ---
