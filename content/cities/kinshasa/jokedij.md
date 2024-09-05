@@ -1,5 +1,5 @@
 ---
 title: "Jokedij"
 url: /kinshasa/jokedij/
-shop: commodité
+shop: Lebensmittel
 ---

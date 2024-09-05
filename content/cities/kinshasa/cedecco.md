@@ -1,5 +1,5 @@
 ---
 title: "CEDECCO"
 url: /kinshasa/cedecco/
-shop: magasin de variétés
+shop: Kramladen
 ---

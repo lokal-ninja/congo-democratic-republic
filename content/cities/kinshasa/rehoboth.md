@@ -1,5 +1,5 @@
 ---
 title: "Réhoboth"
 url: /kinshasa/rehoboth/
-shop: tailleur
+shop: Schneiderei
 ---

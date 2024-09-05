@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /kinshasa/mango/
-shop: vêtements
+shop: Kleidung
 ---

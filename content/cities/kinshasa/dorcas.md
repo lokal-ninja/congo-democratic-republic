@@ -1,5 +1,5 @@
 ---
 title: "Dorcas"
 url: /kinshasa/dorcas/
-shop: commodité
+shop: Lebensmittel
 ---

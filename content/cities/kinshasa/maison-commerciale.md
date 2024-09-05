@@ -1,5 +1,5 @@
 ---
 title: "Maison commerciale"
 url: /kinshasa/maison-commerciale/
-shop: commodité
+shop: Lebensmittel
 ---

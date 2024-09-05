@@ -1,5 +1,5 @@
 ---
 title: "GoShop"
 url: /goma/goshop/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bénédiction"
 url: /kinshasa/benediction/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hoston"
 url: /kinshasa/hoston/
-shop: boulangerie
+shop: Bäckerei
 ---

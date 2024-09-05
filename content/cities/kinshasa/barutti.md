@@ -1,5 +1,5 @@
 ---
 title: "Barutti"
 url: /kinshasa/barutti/
-shop: commodité
+shop: Lebensmittel
 ---

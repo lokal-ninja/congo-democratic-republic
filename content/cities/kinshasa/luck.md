@@ -1,5 +1,5 @@
 ---
 title: "Luck"
 url: /kinshasa/luck/
-shop: beauté
+shop: Kosmetik
 ---

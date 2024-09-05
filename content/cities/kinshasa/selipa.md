@@ -1,5 +1,5 @@
 ---
 title: "Selipa"
 url: /kinshasa/selipa/
-shop: commodité
+shop: Lebensmittel
 ---

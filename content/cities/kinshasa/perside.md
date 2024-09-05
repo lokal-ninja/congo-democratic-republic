@@ -1,5 +1,5 @@
 ---
 title: "Perside"
 url: /kinshasa/perside/
-shop: supermarché
+shop: Supermarkt
 ---

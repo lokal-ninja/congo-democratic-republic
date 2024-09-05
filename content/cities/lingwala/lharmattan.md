@@ -1,5 +1,5 @@
 ---
 title: "L'Harmattan"
 url: /lingwala/lharmattan/
-shop: livres
+shop: Bücher
 ---

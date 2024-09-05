@@ -1,5 +1,5 @@
 ---
 title: "Comptoir la Merveille de Dieu"
 url: /kinshasa/comptoir-la-merveille-de-dieu/
-shop: tailleur
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nickson"
 url: /kinshasa/nickson/
-shop: commodité
+shop: Lebensmittel
 ---

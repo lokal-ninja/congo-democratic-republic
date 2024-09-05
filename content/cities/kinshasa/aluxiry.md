@@ -1,5 +1,5 @@
 ---
 title: "Aluxiry"
 url: /kinshasa/aluxiry/
-shop: vêtements
+shop: Kleidung
 ---

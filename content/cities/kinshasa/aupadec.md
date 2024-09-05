@@ -1,5 +1,5 @@
 ---
 title: "Aupadec"
 url: /kinshasa/aupadec/
-shop: boulangerie
+shop: Bäckerei
 ---

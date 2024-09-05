@@ -1,5 +1,5 @@
 ---
 title: "Chez Francis"
 url: /kinshasa/chez-francis/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anonyme"
 url: /kinshasa/anonyme/
-shop: tailleur
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Masaka"
 url: /kinshasa/masaka/
-shop: commodité
+shop: Lebensmittel
 ---

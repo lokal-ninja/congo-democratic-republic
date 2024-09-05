@@ -1,5 +1,5 @@
 ---
 title: "Giova"
 url: /kinshasa/giova/
-shop: commodité
+shop: Lebensmittel
 ---

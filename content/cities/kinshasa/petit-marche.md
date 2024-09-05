@@ -1,5 +1,5 @@
 ---
 title: "Petit Marché"
 url: /kinshasa/petit-marche/
-shop: meubles
+shop: Möbel
 ---

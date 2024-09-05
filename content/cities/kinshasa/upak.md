@@ -1,5 +1,5 @@
 ---
 title: "UPAK"
 url: /kinshasa/upak/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shaloom"
 url: /kinshasa/shaloom/
-shop: boutique
+shop: Modehaus
 ---
