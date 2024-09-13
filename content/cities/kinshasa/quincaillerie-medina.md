@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie Medina"
 url: /kinshasa/quincaillerie-medina/
-shop: Eisenwaren
+shop: matériel informatique
 ---

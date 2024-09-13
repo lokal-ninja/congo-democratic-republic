@@ -1,5 +1,5 @@
 ---
 title: "MKT"
 url: /kinshasa/mkt/
-shop: Kramladen
+shop: magasin de variétés
 ---

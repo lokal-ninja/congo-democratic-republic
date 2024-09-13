@@ -1,5 +1,5 @@
 ---
 title: "Boutique chancel"
 url: /kinshasa/boutique-chancel/
-shop: Lebensmittel
+shop: commodité
 ---

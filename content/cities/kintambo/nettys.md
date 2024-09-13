@@ -1,5 +1,5 @@
 ---
 title: "Nettys"
 url: /kintambo/nettys/
-shop: Supermarkt
+shop: supermarché
 ---

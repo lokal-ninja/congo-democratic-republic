@@ -1,5 +1,5 @@
 ---
 title: "Promesse"
 url: /kinshasa/promesse/
-shop: Elektronik
+shop: électronique
 ---

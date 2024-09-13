@@ -1,5 +1,5 @@
 ---
 title: "Dépôt Ciment Champagne"
 url: /kinshasa/depot-ciment-champagne/
-shop: Möbel
+shop: meubles
 ---

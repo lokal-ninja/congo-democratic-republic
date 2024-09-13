@@ -1,5 +1,5 @@
 ---
 title: "Alimentation"
 url: /kinkole/alimentation/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Belle Vie"
 url: /kinshasa/belle-vie/
-shop: Kramladen
+shop: magasin de variétés
 ---

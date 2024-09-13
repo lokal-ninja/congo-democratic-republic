@@ -1,5 +1,5 @@
 ---
 title: "Pétrol"
 url: /kalamu/petrol/
-shop: Lebensmittel
+shop: commodité
 ---

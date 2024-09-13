@@ -1,5 +1,5 @@
 ---
 title: "La Chinoise mamanKankonde"
 url: /kinshasa/la-chinoise-mamankankonde/
-shop: Warenhaus
+shop: grand magasin
 ---

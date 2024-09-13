@@ -1,5 +1,5 @@
 ---
 title: "Bosembo"
 url: /kinshasa/bosembo/
-shop: Kramladen
+shop: magasin de variétés
 ---

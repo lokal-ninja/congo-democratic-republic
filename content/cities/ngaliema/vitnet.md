@@ -1,5 +1,5 @@
 ---
 title: "Vitnet"
 url: /ngaliema/vitnet/
-shop: Wäscherei
+shop: blanchisserie
 ---

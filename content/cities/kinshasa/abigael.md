@@ -1,5 +1,5 @@
 ---
 title: "Abigael"
 url: /kinshasa/abigael/
-shop: Lebensmittel
+shop: commodité
 ---

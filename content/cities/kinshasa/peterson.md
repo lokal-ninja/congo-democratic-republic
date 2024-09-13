@@ -1,5 +1,5 @@
 ---
 title: "Peterson"
 url: /kinshasa/peterson/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mago"
 url: /kinshasa/mago/
-shop: Friseur
+shop: coiffeur
 ---

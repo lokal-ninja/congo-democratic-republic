@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie"
 url: /kinshasa/quincaillerie/
-shop: Eisenwaren
+shop: matériel informatique
 ---

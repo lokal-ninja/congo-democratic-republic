@@ -1,5 +1,5 @@
 ---
 title: "Maison Snow"
 url: /kinshasa/maison-snow/
-shop: Kramladen
+shop: magasin de variétés
 ---

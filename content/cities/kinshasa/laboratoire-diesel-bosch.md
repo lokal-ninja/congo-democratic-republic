@@ -1,5 +1,5 @@
 ---
 title: "Laboratoire Diesel Bosch"
 url: /kinshasa/laboratoire-diesel-bosch/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

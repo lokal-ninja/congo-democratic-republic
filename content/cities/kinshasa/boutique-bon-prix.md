@@ -1,5 +1,5 @@
 ---
 title: "Boutique Bon prix"
 url: /kinshasa/boutique-bon-prix/
-shop: Lebensmittel
+shop: commodité
 ---

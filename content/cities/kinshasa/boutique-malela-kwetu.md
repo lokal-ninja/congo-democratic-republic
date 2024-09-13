@@ -1,5 +1,5 @@
 ---
 title: "Boutique Malela Kwetu"
 url: /kinshasa/boutique-malela-kwetu/
-shop: Kramladen
+shop: magasin de variétés
 ---

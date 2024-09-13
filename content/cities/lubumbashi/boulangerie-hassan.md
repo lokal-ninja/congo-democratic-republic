@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Hassan"
 url: /lubumbashi/boulangerie-hassan/
-shop: Bäckerei
+shop: boulangerie
 ---

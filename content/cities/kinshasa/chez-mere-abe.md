@@ -1,5 +1,5 @@
 ---
 title: "Chez Mère Abe"
 url: /kinshasa/chez-mere-abe/
-shop: Lebensmittel
+shop: commodité
 ---

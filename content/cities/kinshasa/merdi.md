@@ -1,5 +1,5 @@
 ---
 title: "Merdi"
 url: /kinshasa/merdi/
-shop: Drogerie
+shop: chimiste
 ---

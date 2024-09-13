@@ -1,5 +1,5 @@
 ---
 title: "Big Market"
 url: /kinshasa/big-market/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Accomplissement"
 url: /kinshasa/laccomplissement/
-shop: Schneiderei
+shop: tailleur
 ---

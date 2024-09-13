@@ -1,5 +1,5 @@
 ---
 title: "Boutique Grecque"
 url: /kinshasa/boutique-grecque/
-shop: Kramladen
+shop: magasin de variétés
 ---

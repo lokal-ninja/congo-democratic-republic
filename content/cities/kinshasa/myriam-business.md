@@ -1,5 +1,5 @@
 ---
 title: "Myriam Business"
 url: /kinshasa/myriam-business/
-shop: Kramladen
+shop: magasin de variétés
 ---

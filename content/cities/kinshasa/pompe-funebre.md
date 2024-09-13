@@ -1,5 +1,5 @@
 ---
 title: "Pompe funèbre"
 url: /kinshasa/pompe-funebre/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

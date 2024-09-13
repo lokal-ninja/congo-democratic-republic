@@ -1,5 +1,5 @@
 ---
 title: "Visibilité"
 url: /kinshasa/visibilite/
-shop: Schneiderei
+shop: tailleur
 ---

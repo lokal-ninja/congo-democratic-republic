@@ -1,5 +1,5 @@
 ---
 title: "JoeMeri"
 url: /kinshasa/joemeri/
-shop: Kleidung
+shop: vêtements
 ---

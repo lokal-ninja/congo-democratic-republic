@@ -1,5 +1,5 @@
 ---
 title: "Boutique Malou Forjana"
 url: /kinshasa/boutique-malou-forjana/
-shop: Kramladen
+shop: magasin de variétés
 ---

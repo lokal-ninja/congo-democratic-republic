@@ -1,5 +1,5 @@
 ---
 title: "Maison Bukatu.com"
 url: /kinshasa/maison-bukatu-com/
-shop: Friseur
+shop: coiffeur
 ---

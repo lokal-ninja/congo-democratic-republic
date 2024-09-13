@@ -1,5 +1,5 @@
 ---
 title: "Empire"
 url: /kinshasa/empire/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

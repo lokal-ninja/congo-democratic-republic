@@ -1,5 +1,5 @@
 ---
 title: "Maison Fabrice"
 url: /kinshasa/maison-fabrice/
-shop: Handy
+shop: téléphone portable
 ---

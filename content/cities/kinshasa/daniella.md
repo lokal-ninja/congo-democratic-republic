@@ -1,5 +1,5 @@
 ---
 title: "Daniella"
 url: /kinshasa/daniella/
-shop: Lebensmittel
+shop: commodité
 ---

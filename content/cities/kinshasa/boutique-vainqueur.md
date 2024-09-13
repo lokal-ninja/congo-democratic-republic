@@ -1,5 +1,5 @@
 ---
 title: "Boutique Vainqueur"
 url: /kinshasa/boutique-vainqueur/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maison commerciale avec bcp d'activite"
 url: /kinshasa/maison-commerciale-avec-bcp-dactivite/
-shop: Kramladen
+shop: magasin de variétés
 ---

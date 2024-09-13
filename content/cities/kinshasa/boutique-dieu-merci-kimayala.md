@@ -1,5 +1,5 @@
 ---
 title: "Boutique Dieu Merci"
 url: /kinshasa/boutique-dieu-merci-kimayala/
-shop: Kramladen
+shop: magasin de variétés
 ---

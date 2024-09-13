@@ -1,5 +1,5 @@
 ---
 title: "CFAO Matadi"
 url: /matadi/cfao-matadi/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

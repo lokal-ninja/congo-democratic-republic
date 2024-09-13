@@ -1,5 +1,5 @@
 ---
 title: "Vainqueurs"
 url: /kinshasa/vainqueurs/
-shop: Lebensmittel
+shop: commodité
 ---

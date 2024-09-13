@@ -1,5 +1,5 @@
 ---
 title: "Boutique Mbongo Ndinga"
 url: /kinshasa/boutique-mbongo-ndinga/
-shop: Kramladen
+shop: magasin de variétés
 ---

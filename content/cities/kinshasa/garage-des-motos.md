@@ -1,5 +1,5 @@
 ---
 title: "Garage des motos"
 url: /kinshasa/garage-des-motos/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

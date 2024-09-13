@@ -1,5 +1,5 @@
 ---
 title: "Maison Tshiba"
 url: /kinshasa/maison-tshiba/
-shop: Kramladen
+shop: magasin de variétés
 ---

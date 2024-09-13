@@ -1,5 +1,5 @@
 ---
 title: "Boutique Papa"
 url: /kinshasa/boutique-papa/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maison de couture"
 url: /kinshasa/maison-de-couture-avenue-pinzi/
-shop: Schneiderei
+shop: tailleur
 ---

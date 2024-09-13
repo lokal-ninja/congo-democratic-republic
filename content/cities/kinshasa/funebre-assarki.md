@@ -1,5 +1,5 @@
 ---
 title: "Funebre Assarki"
 url: /kinshasa/funebre-assarki/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

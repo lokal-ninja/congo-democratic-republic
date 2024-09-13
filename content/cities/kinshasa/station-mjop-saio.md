@@ -1,5 +1,5 @@
 ---
 title: "Station Mjop Saio"
 url: /kinshasa/station-mjop-saio/
-shop: Allgemein
+shop: shop
 ---

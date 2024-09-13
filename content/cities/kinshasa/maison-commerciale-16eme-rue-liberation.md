@@ -1,5 +1,5 @@
 ---
 title: "Maison commerciale"
 url: /kinshasa/maison-commerciale-16eme-rue-liberation/
-shop: Kramladen
+shop: magasin de variétés
 ---

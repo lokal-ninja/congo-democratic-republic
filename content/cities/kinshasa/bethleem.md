@@ -1,5 +1,5 @@
 ---
 title: "Bethleem"
 url: /kinshasa/bethleem/
-shop: Bäckerei
+shop: boulangerie
 ---

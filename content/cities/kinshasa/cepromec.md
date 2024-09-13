@@ -1,5 +1,5 @@
 ---
 title: "Cepromec"
 url: /kinshasa/cepromec/
-shop: Möbel
+shop: meubles
 ---

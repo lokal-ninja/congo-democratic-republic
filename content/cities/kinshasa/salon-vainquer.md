@@ -1,5 +1,5 @@
 ---
 title: "Salon Vainquer"
 url: /kinshasa/salon-vainquer/
-shop: Kosmetik
+shop: beauté
 ---

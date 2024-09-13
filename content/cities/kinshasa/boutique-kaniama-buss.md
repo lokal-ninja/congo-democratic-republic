@@ -1,5 +1,5 @@
 ---
 title: "Boutique Kaniama Buss"
 url: /kinshasa/boutique-kaniama-buss/
-shop: Modehaus
+shop: boutique
 ---

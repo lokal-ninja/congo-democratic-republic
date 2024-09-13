@@ -1,5 +1,5 @@
 ---
 title: "BGC divers"
 url: /kinshasa/bgc-divers/
-shop: Kramladen
+shop: magasin de variétés
 ---

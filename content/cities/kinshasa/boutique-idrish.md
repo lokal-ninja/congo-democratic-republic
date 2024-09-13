@@ -1,5 +1,5 @@
 ---
 title: "Boutique Idrish"
 url: /kinshasa/boutique-idrish/
-shop: Kramladen
+shop: magasin de variétés
 ---

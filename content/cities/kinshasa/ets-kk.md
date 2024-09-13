@@ -1,5 +1,5 @@
 ---
 title: "ETS KK"
 url: /kinshasa/ets-kk/
-shop: Kramladen
+shop: magasin de variétés
 ---

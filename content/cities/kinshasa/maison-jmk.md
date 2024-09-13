@@ -1,5 +1,5 @@
 ---
 title: "Maison JMK"
 url: /kinshasa/maison-jmk/
-shop: Lebensmittel
+shop: commodité
 ---

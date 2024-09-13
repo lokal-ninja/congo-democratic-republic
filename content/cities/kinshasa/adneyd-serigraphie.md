@@ -1,5 +1,5 @@
 ---
 title: "Adneyd Serigraphie"
 url: /kinshasa/adneyd-serigraphie/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

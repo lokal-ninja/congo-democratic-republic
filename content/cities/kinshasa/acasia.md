@@ -1,5 +1,5 @@
 ---
 title: "Acasia"
 url: /kinshasa/acasia/
-shop: Lebensmittel
+shop: commodité
 ---

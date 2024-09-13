@@ -1,5 +1,5 @@
 ---
 title: "Dépôt Boisson et Ciment"
 url: /kinshasa/depot-boisson-et-ciment/
-shop: Kramladen
+shop: magasin de variétés
 ---

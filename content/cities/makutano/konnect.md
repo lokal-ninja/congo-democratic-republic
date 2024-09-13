@@ -1,5 +1,5 @@
 ---
 title: "Konnect"
 url: /makutano/konnect/
-shop: Handy
+shop: téléphone portable
 ---

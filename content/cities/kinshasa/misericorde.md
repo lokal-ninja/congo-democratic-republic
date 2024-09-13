@@ -1,5 +1,5 @@
 ---
 title: "Miséricorde"
 url: /kinshasa/misericorde/
-shop: Kramladen
+shop: magasin de variétés
 ---

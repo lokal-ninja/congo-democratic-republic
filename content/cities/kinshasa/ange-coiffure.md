@@ -1,5 +1,5 @@
 ---
 title: "Ange Coiffure"
 url: /kinshasa/ange-coiffure/
-shop: Kosmetik
+shop: beauté
 ---

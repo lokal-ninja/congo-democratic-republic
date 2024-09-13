@@ -1,5 +1,5 @@
 ---
 title: "Bethel"
 url: /kinshasa/bethel/
-shop: Supermarkt
+shop: supermarché
 ---

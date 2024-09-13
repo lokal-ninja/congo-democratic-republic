@@ -1,5 +1,5 @@
 ---
 title: "Salon Feux vert"
 url: /kinshasa/salon-feux-vert/
-shop: Friseur
+shop: coiffeur
 ---

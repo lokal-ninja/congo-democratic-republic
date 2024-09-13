@@ -1,5 +1,5 @@
 ---
 title: "Archa Motors"
 url: /kinshasa/archa-motors/
-shop: Eisenwaren
+shop: matériel informatique
 ---

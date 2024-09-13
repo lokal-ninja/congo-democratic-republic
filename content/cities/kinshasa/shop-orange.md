@@ -1,5 +1,5 @@
 ---
 title: "Shop Orange"
 url: /kinshasa/shop-orange/
-shop: Handy
+shop: téléphone portable
 ---

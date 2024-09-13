@@ -1,5 +1,5 @@
 ---
 title: "Plazza"
 url: /kinshasa/plazza/
-shop: Supermarkt
+shop: supermarché
 ---

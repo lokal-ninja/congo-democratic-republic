@@ -1,5 +1,5 @@
 ---
 title: "Station Engen"
 url: /kinshasa/station-engen/
-shop: Allgemein
+shop: shop
 ---

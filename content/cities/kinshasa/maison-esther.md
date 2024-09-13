@@ -1,5 +1,5 @@
 ---
 title: "Maison Esther"
 url: /kinshasa/maison-esther/
-shop: Einkaufszentrum
+shop: centre commercial
 ---
