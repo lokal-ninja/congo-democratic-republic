@@ -1,11 +1,11 @@
 id: 698719586
-type: way
+type: node
 latitude: -4.42431
 longitude: 15.31889
 postcode: ""
 city: kinshasa
-street: "Luaki"
-housenumber: 38
+street: Luaki
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

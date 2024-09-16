@@ -1,11 +1,11 @@
 id: 644316920
-type: way
+type: node
 latitude: -4.42237
 longitude: 15.33039
 postcode: ""
 city: Kinshasa
-street: "Ngandajika"
-housenumber: 15
+street: Ngandajika
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

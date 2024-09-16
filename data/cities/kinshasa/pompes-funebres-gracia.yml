@@ -1,11 +1,11 @@
 id: 701272503
-type: way
+type: node
 latitude: -4.41875
 longitude: 15.38178
 postcode: ""
 city: Kinshasa
-street: "Mokali"
-housenumber: 102
+street: Mokali
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

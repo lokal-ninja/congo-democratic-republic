@@ -1,11 +1,11 @@
 id: 643326503
-type: way
+type: node
 latitude: -4.42158
 longitude: 15.33365
 postcode: ""
 city: Kinshasa
-street: "Ngwisana"
-housenumber: 12
+street: Ngwisana
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

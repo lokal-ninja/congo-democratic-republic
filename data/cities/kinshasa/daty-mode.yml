@@ -1,11 +1,11 @@
 id: 595929003
-type: way
+type: node
 latitude: -4.40412
 longitude: 15.35251
 postcode: ""
 city: Kinshasa
-street: "Kimbondo"
-housenumber: 21
+street: Kimbondo
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

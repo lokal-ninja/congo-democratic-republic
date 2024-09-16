@@ -1,11 +1,11 @@
 id: 700878069
-type: way
+type: node
 latitude: -4.40021
 longitude: 15.35409
 postcode: ""
 city: Kinshasa
-street: "Matondo"
-housenumber: 2
+street: Matondo
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

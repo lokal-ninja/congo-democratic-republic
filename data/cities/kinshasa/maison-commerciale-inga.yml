@@ -1,11 +1,11 @@
 id: 701056571
-type: way
+type: node
 latitude: -4.41244
 longitude: 15.38879
 postcode: ""
 city: Kinshasa
-street: "Inga"
-housenumber: 23
+street: Inga
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

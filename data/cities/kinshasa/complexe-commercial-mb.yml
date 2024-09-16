@@ -1,11 +1,11 @@
 id: 701044536
-type: way
+type: node
 latitude: -4.38865
 longitude: 15.34263
 postcode: ""
 city: Kinshasa
-street: "Anunga"
-housenumber: 31
+street: Anunga
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

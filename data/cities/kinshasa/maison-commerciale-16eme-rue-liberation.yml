@@ -1,11 +1,11 @@
 id: 596018519
-type: way
+type: node
 latitude: -4.39632
 longitude: 15.35614
 postcode: ""
 city: Kinshasa
-street: "16ème Rue Libération"
-housenumber: 534
+street: 16ème Rue Libération
+housenumber: "534"
 phone: ""
 opening_hours: ""
 website: ""

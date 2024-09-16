@@ -1,11 +1,11 @@
 id: 676794596
-type: way
+type: node
 latitude: -4.42808
 longitude: 15.37916
 postcode: ""
 city: Kinshasa
-street: "Nkanza"
-housenumber: 95
+street: Nkanza
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

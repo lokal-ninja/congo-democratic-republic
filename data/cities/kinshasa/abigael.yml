@@ -1,11 +1,11 @@
 id: 700113918
-type: way
+type: node
 latitude: -4.42074
 longitude: 15.38289
 postcode: ""
 city: Kinshasa
-street: "Matanda"
-housenumber: 83
+street: Matanda
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

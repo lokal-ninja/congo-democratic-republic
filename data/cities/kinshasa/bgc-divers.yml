@@ -1,11 +1,11 @@
 id: 596501682
-type: way
+type: node
 latitude: -4.41129
 longitude: 15.35432
 postcode: ""
 city: kinshasa
-street: "Bantandu"
-housenumber: 17
+street: Bantandu
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

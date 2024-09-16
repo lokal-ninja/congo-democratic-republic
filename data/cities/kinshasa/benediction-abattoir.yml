@@ -1,11 +1,11 @@
 id: 701372071
-type: way
+type: node
 latitude: -4.37969
 longitude: 15.37377
 postcode: ""
 city: kinshasa
-street: "Abattoir"
-housenumber: 45
+street: Abattoir
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

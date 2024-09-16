@@ -1,11 +1,11 @@
 id: 701046127
-type: way
+type: node
 latitude: -4.40455
 longitude: 15.31637
 postcode: ""
 city: Kinshasa
-street: "Avenue de l'Université"
-housenumber: 13
+street: Avenue de l'Université
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

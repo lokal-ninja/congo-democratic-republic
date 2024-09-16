@@ -1,11 +1,11 @@
 id: 596600961
-type: way
+type: node
 latitude: -4.40475
 longitude: 15.35414
 postcode: ""
 city: kinshasa
-street: "Nsau"
-housenumber: 3
+street: Nsau
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

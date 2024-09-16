@@ -1,11 +1,11 @@
 id: 711279333
-type: way
+type: node
 latitude: -4.40428
 longitude: 15.3164
 postcode: ""
 city: Kinshasa
-street: "Avenue de l'Université"
-housenumber: 11
+street: Avenue de l'Université
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

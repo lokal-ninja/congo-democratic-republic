@@ -1,11 +1,11 @@
 id: 676487627
-type: way
+type: node
 latitude: -4.40366
 longitude: 15.36764
 postcode: ""
 city: Kinshasa
-street: "Bon Coin"
-housenumber: 1
+street: Bon Coin
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

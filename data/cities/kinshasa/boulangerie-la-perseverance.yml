@@ -1,11 +1,11 @@
 id: 676535610
-type: way
+type: node
 latitude: -4.40717
 longitude: 15.38596
 postcode: ""
 city: Kinshasa
-street: "Maduda"
-housenumber: 49
+street: Maduda
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

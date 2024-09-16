@@ -1,11 +1,11 @@
 id: 434887034
-type: way
+type: node
 latitude: -4.38798
 longitude: 15.35931
 postcode: ""
 city: Kinshasa
-street: "Avenue 2 ème Rue Lumière"
-housenumber: 20
+street: Avenue 2 ème Rue Lumière
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

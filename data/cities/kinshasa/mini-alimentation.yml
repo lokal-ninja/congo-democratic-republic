@@ -1,11 +1,11 @@
 id: 698719620
-type: way
+type: node
 latitude: -4.42531
 longitude: 15.32079
 postcode: ""
 city: kinshasa
-street: "Kasanza"
-housenumber: 20
+street: Kasanza
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

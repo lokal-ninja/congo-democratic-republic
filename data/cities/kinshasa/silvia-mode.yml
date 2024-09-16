@@ -1,11 +1,11 @@
 id: 596556506
-type: way
+type: node
 latitude: -4.40695
 longitude: 15.35387
 postcode: ""
 city: kinshasa
-street: "Lemfu"
-housenumber: 10
+street: Lemfu
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

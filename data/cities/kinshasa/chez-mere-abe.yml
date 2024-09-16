@@ -1,11 +1,11 @@
 id: 596751968
-type: way
+type: node
 latitude: -4.38676
 longitude: 15.35977
 postcode: ""
 city: Kinshasa
-street: "Avenue 1 ère Rue"
-housenumber: 161
+street: Avenue 1 ère Rue
+housenumber: "161"
 phone: ""
 opening_hours: ""
 website: ""

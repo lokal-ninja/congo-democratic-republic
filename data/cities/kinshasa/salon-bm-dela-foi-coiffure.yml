@@ -1,11 +1,11 @@
 id: 676269590
-type: way
+type: node
 latitude: -4.39724
 longitude: 15.37013
 postcode: ""
 city: Kinshasa
-street: "Commerciale"
-housenumber: 194
+street: Commerciale
+housenumber: "194"
 phone: "0829210990"
 opening_hours: ""
 website: ""

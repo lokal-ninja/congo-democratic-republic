@@ -1,11 +1,11 @@
 id: 596019482
-type: way
+type: node
 latitude: -4.39539
 longitude: 15.35649
 postcode: ""
 city: Kinshasa
-street: "16ème rue"
-housenumber: 17
+street: 16ème rue
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

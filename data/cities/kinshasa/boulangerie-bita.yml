@@ -1,11 +1,11 @@
 id: 700171182
-type: way
+type: node
 latitude: -4.41252
 longitude: 15.37772
 postcode: ""
 city: kinshasa
-street: "Bita"
-housenumber: 2
+street: Bita
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

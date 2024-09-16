@@ -1,11 +1,11 @@
 id: 439343965
-type: way
+type: node
 latitude: -4.39361
 longitude: 15.34908
 postcode: ""
 city: Kinshasa
-street: "Bahumbu"
-housenumber: 1
+street: Bahumbu
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

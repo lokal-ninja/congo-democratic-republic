@@ -1,11 +1,11 @@
 id: 596534585
-type: way
+type: node
 latitude: -4.4125
 longitude: 15.35479
 postcode: ""
 city: kinshasa
-street: "Voie Ferrée"
-housenumber: 14
+street: Voie Ferrée
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

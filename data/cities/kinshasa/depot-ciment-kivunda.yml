@@ -1,11 +1,11 @@
 id: 698869766
-type: way
+type: node
 latitude: -4.4177
 longitude: 15.33552
 postcode: ""
 city: Kinshasa
-street: "Kivunda"
-housenumber: 11
+street: Kivunda
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

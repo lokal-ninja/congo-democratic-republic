@@ -1,11 +1,11 @@
 id: 595913468
-type: way
+type: node
 latitude: -4.4018
 longitude: 15.35257
 postcode: ""
 city: kinshasa
-street: "Kinzazi"
-housenumber: 12
+street: Kinzazi
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

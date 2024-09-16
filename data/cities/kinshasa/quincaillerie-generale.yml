@@ -1,11 +1,11 @@
 id: 596537401
-type: way
+type: node
 latitude: -4.40258
 longitude: 15.35418
 postcode: ""
 city: Kinshasa
-street: "Kisende"
-housenumber: 5
+street: Kisende
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 696415779
-type: way
+type: node
 latitude: -4.37703
 longitude: 15.3735
 postcode: ""
 city: kinshasa
-street: "Mongo"
-housenumber: 36
+street: Mongo
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

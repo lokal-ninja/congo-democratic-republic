@@ -1,11 +1,11 @@
 id: 696415852
-type: way
+type: node
 latitude: -4.37819
 longitude: 15.37297
 postcode: ""
 city: kinshasa
-street: "Ikunda"
-housenumber: 38
+street: Ikunda
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

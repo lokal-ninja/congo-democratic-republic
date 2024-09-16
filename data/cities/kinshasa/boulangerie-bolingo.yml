@@ -1,11 +1,11 @@
 id: 676802539
-type: way
+type: node
 latitude: -4.42169
 longitude: 15.38216
 postcode: ""
 city: Kinshasa
-street: "Avenue Makombo"
-housenumber: 102
+street: Avenue Makombo
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

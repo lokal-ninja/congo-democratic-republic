@@ -1,11 +1,11 @@
 id: 635704436
-type: way
+type: node
 latitude: -4.41371
 longitude: 15.3433
 postcode: ""
 city: Kinshasa
-street: "Avenue Kinsele"
-housenumber: 14
+street: Avenue Kinsele
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

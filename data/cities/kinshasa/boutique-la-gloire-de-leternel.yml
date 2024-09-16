@@ -1,11 +1,11 @@
 id: 635684673
-type: way
+type: node
 latitude: -4.41512
 longitude: 15.3387
 postcode: ""
 city: Kinshasa
-street: "avenue Diomi"
-housenumber: 6
+street: avenue Diomi
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

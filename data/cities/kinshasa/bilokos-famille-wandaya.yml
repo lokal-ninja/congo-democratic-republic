@@ -1,11 +1,11 @@
 id: 711279335
-type: way
+type: node
 latitude: -4.40465
 longitude: 15.31638
 postcode: ""
 city: Kinshasa
-street: "Avenue de l'Université"
-housenumber: 13
+street: Avenue de l'Université
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

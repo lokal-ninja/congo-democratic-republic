@@ -1,11 +1,11 @@
 id: 597312786
-type: way
+type: node
 latitude: -4.39929
 longitude: 15.354
 postcode: ""
 city: Kinshasa
-street: "Fuma"
-housenumber: 1
+street: Fuma
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

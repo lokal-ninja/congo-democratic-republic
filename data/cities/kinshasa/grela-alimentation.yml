@@ -1,11 +1,11 @@
 id: 700886368
-type: way
+type: node
 latitude: -4.4032
 longitude: 15.35445
 postcode: ""
 city: kinshasa
-street: "Kinsende"
-housenumber: 2
+street: Kinsende
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

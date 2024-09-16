@@ -1,11 +1,11 @@
 id: 597671575
-type: way
+type: node
 latitude: -4.40024
 longitude: 15.35055
 postcode: ""
 city: Kinshasa
-street: "Avenu Sasa"
-housenumber: 41
+street: Avenu Sasa
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

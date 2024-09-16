@@ -1,11 +1,11 @@
 id: 635695119
-type: way
+type: node
 latitude: -4.41471
 longitude: 15.3406
 postcode: ""
 city: Kinshasa
-street: "Avenue Pinzi"
-housenumber: 53
+street: Avenue Pinzi
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 698713701
-type: way
+type: node
 latitude: -4.38857
 longitude: 15.35907
 postcode: ""
 city: Kinshasa
-street: "3 ème Rue"
-housenumber: 41
+street: 3 ème Rue
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

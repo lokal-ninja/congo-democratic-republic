@@ -1,11 +1,11 @@
 id: 698713686
-type: way
+type: node
 latitude: -4.38884
 longitude: 15.35879
 postcode: ""
 city: Kinshasa
-street: "avenue 3ème rue"
-housenumber: 121
+street: avenue 3ème rue
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

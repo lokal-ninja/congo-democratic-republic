@@ -1,11 +1,11 @@
 id: 700163546
-type: way
+type: node
 latitude: -4.4364
 longitude: 15.32455
 postcode: ""
 city: kinshasa
-street: "Mashala"
-housenumber: 26
+street: Mashala
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

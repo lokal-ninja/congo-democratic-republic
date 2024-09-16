@@ -1,11 +1,11 @@
 id: 300945218
-type: way
+type: node
 latitude: -4.30647
 longitude: 15.31141
 postcode: ""
 city: Gombe
-street: "Avenue Tombalbaye"
-housenumber: 833
+street: Avenue Tombalbaye
+housenumber: "833"
 phone: ""
 opening_hours: ""
 website: ""

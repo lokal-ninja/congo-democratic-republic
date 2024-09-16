@@ -1,11 +1,11 @@
 id: 635989694
-type: way
+type: node
 latitude: -4.39951
 longitude: 15.34606
 postcode: ""
 city: Kinshasa
-street: "Kimayala"
-housenumber: 81
+street: Kimayala
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""
