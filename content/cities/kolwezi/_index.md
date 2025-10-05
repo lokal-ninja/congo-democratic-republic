@@ -1,6 +1,6 @@
 ---
 title: Kolwezi
 url: /kolwezi/
-latitude: -10.719
-longitude: 25.503
+latitude: -10.721
+longitude: 25.507
 ---
