@@ -1,5 +1,5 @@
 ---
 title: "ElCute Beauty Bar"
-url: /kasavubu/elcute-beauty-bar/
+url: /kinshasa/elcute-beauty-bar/
 shop: beauté
 ---
