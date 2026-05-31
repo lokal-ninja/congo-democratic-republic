@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
-url: /kinshasa/boulangerie-sep-congo/
+url: /kinshasa/boulangerie-menkao/
 shop: boulangerie
 ---
